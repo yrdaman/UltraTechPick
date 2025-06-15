@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UltraTechPick - Smart Product Finder</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+
+<body>
+  <header class="app-header">
+    <div class="app-title" id="go-home" style="cursor:pointer;">
+      <span>⚡</span> UltraTechPick - [Smart Product Finder]
+    </div>
+  </header>
+
+
+
+  <!-- Main Content (fades on chat) -->
+  <main class="app-container" id="main-content">
+    <section class="intro">
+      <div class="bot-icon">
+        <img src="{{ url_for('static', filename='icon2.png') }}" alt="Bot Icon" class="bot-icon">
+      </div>
+      <h2>Welcome to the Smart Product Finder</h2>
+      <p>Tell us your needs, and we’ll match the best smartphones or laptops for you!</p>
+    </section>
+
+    <section class="question-buttons">
+      <button>Find best phones under ₹30,000</button>
+      <button>I want a laptop for programming</button>
+      <button>Compare Poco X6 Pro and Samsung Galaxy A35</button>
+      <button>Best gaming phone under ₹40,000</button>
+      <button>Suggest a laptop for students under ₹50,000</button>
+      <button>Find flagship phones above ₹60,000</button>
+      <button class="more-questions">See more suggestions</button>
+    </section>
+
+  </main>
+  <!-- Chat Container -->
+  <div id="chat-container" class="chat-scroll-area">
+
+  </div>
+  <!-- Footer Input -->
+  <footer class="chat-footer">
+    <input type="text" id="user-input" placeholder="Type your question about phones or laptops..." autocomplete="off"
+      aria-label="Ask about smartphones or laptops" />
+    <button id="send-button" title="Send Query">➤</button>
+  </footer>
+
+  <!-- Load script.js as a module -->
+  <script type="module" src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

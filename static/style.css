@@ -1,0 +1,371 @@
+/* ========== Base Styles ========== */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow-y: auto; /* Ensure body scrolls */
+}
+
+/* ========== Header ========== */
+.app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.app-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* ========== Container ========== */
+.app-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+  padding-top: 80px; /* Adjust to match header height */
+}
+
+/* ========== Intro Section ========== */
+.intro {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bot-icon {
+  width: 100px;
+  margin-bottom: 1rem;
+}
+
+.intro .bot-icon {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.intro .bot-icon img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  background: #f5f5f5;
+  display: block;
+  margin: 0 auto;
+}
+
+.intro h2 {
+  margin: 1rem 0 0.5rem;
+}
+
+.intro p {
+  color: #666;
+  font-size: 0.95rem;
+  max-width: 600px;
+}
+
+/* ========== Question Buttons ========== */
+.question-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.question-buttons button {
+  padding: 0.75rem 1.25rem;
+  border: 1px solid #ddd;
+  background: #f9f9f9;
+  border-radius: 10px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.question-buttons button:hover {
+  background: #efefef;
+  transform: scale(1.02);
+}
+
+.more-questions {
+  font-weight: bold;
+  background: #fff;
+  border: 1px solid #333;
+}
+
+/* ========== Chat Footer ========== */
+.chat-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-top: 1px solid #eee;
+  gap: 0.5rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #fff;
+  z-index: 10;
+}
+
+.chat-footer input {
+  flex: 1;
+  max-width: 550px;
+  font-size: 1.1rem;         /* Increased font size */
+  padding: 1rem 1.2rem;      /* Increased padding */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  height: 3rem;              /* Set a fixed height for better alignment */
+  box-sizing: border-box;
+}
+
+.chat-footer button#send-button {
+  font-size: 1.3rem;         /* Slightly larger icon */
+  background: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 0.9rem 1.3rem;    /* Match input height */
+  height: 3rem;              /* Match input height */
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ========== Chat Container ========== */
+#chat-container {
+  max-width: 750px;
+  margin: 30px auto;
+  padding: 0 10px 50px 10px;
+  font-family: 'Segoe UI', sans-serif;
+  flex-grow: 0;
+  overflow-y: visible;
+  background: none;
+  border-radius: 0;
+  min-height: 0;
+  box-shadow: none;
+  display: block;
+  padding-top: 20px; /* Optional: for spacing under header */
+}
+
+/* ========== Message Styles ========== */
+.message,
+.chat-message {
+  background: #f2f2f2;
+  border-radius: 1rem;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  max-width: 90%;
+  line-height: 1.5;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+.user-message,
+.chat-user {
+  background-color: #e0e0e0;
+  align-self: flex-end;
+  text-align: right;
+}
+
+.bot-message,
+.chat-bot {
+  background: none;
+  padding: 0;
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #333;
+  text-align: left;
+  max-width: 100%;
+}
+
+.chat-bot::before {
+  content: "🤖 ";
+  font-weight: bold;
+  color: #555;
+}
+
+/* ========== Chat Row Layout ========== */
+.chat-row {
+  display: flex;
+  align-items: flex-start;
+  margin: 1rem 0;
+  gap: 0.75rem;
+  animation: fadeIn 0.4s ease;
+}
+
+.chat-row.user {
+  justify-content: flex-end;
+}
+
+.chat-row.bot {
+  justify-content: flex-start;
+}
+
+.chat-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* ========== Chat Bubbles ========== */
+.chat-bubble {
+  max-width: 70%;
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
+  line-height: 1.5;
+  word-wrap: break-word;
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+.chat-user-bubble {
+  background-color: #e0e0e0;
+  color: #000;
+  border-bottom-right-radius: 0;
+}
+
+.chat-bot-bubble {
+  background-color: #ffffff;
+  color: #333;
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
+  border-bottom-left-radius: 0;
+}
+
+/* ========== Copy Button for Bot Bubble ========== */
+.copy-button {
+  position: absolute;
+  top:1rem;
+  right: 1rem;
+  background: #e0e0e0;
+  border: none;
+  border-radius: 5px;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: #333;
+  transition: background 0.2s ease;
+}
+
+.copy-button:hover {
+  background: #a0a0a0;
+}
+
+.copy-button.copied::after {
+  content: "Copied!";
+  position: absolute;
+  top: -1.5rem;
+  right: 0;
+  background: #333;
+  color: #fff;
+  padding: 0.2rem 0.5rem;
+  border-radius: 5px;
+  font-size: 0.7rem;
+}
+
+/* ========== Markdown Styles for Chat Bubble ========== */
+.chat-bot-bubble h3 {
+  font-size: 1.1em;
+  margin: 0.5em 0;
+  color: #333;
+  font-weight: 600;
+}
+
+.chat-bot-bubble table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.chat-bot-bubble th,
+.chat-bot-bubble td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  font-size: 0.9em;
+}
+
+.chat-bot-bubble th {
+  background-color: #e0e0e0;
+  font-weight: bold;
+}
+
+.chat-bot-bubble ul {
+  margin: 0.5em 0;
+  padding-left: 20px;
+}
+
+.chat-bot-bubble li {
+  margin-bottom: 0.3em;
+  font-size: 0.95em;
+}
+
+.chat-bot-bubble strong {
+  font-weight: bold;
+}
+
+.chat-bot-bubble p {
+  margin: 0.5em 0;
+  font-size: 0.95em;
+}
+
+/* ========== Animations ========== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.loading-dots::after {
+  content: ' ';
+  animation: dots 1.2s steps(4, end) infinite;
+}
+
+@keyframes dots {
+  0% { content: ''; }
+  25% { content: '.'; }
+  50% { content: '..'; }
+  75% { content: '...'; }
+}
+
+/* ========== Utility ========== */
+.hidden {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+  display: none !important;
+}

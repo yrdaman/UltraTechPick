@@ -1,0 +1,36 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# Flask/Waitress logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+
+
+# Test and temp files
+test.py
+tempCodeRunnerFile.py
+
+# Jupyter notebooks (if any)
+*.ipynb
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore product dataset generator output (if not needed in prod)
+product_dataset_realistic.json

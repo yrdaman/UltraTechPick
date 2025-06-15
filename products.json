@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "phone001",
+    "name": "Samsung Galaxy S24",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 79999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "Exynos 2400",
+      "display": "6.2-inch Dynamic AMOLED 2X FHD+ 120Hz",
+      "battery": "4000mAh, 25W charging",
+      "camera": "50MP + 12MP + 10MP"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone002",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 129999,
+    "specs": {
+      "RAM": "12GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 8 Gen 3",
+      "display": "6.8-inch Dynamic AMOLED 2X QHD+ 120Hz",
+      "battery": "5000mAh, 45W charging",
+      "camera": "200MP + 12MP + 10MP + 50MP"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone003",
+    "name": "Samsung Galaxy A35 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 20390,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Exynos 1380",
+      "display": "6.6-inch Super AMOLED FHD+ 120Hz",
+      "battery": "5000mAh, 25W charging",
+      "camera": "50MP + 8MP + 5MP"
+    },
+    "rating": 4.3,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone004",
+    "name": "Samsung Galaxy A55 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 25999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Exynos 1480",
+      "display": "6.6-inch Super AMOLED FHD+ 120Hz",
+      "battery": "5000mAh, 25W charging",
+      "camera": "50MP + 12MP + 5MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone005",
+    "name": "Samsung Galaxy M35 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 13499,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "Exynos 1380",
+      "display": "6.6-inch Super AMOLED FHD+ 120Hz",
+      "battery": "6000mAh, 25W charging",
+      "camera": "50MP + 8MP + 2MP"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone006",
+    "name": "Samsung Galaxy A16 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 17499,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 6300",
+      "display": "6.7-inch Super AMOLED FHD+ 90Hz",
+      "battery": "5000mAh, 25W charging",
+      "camera": "50MP + 5MP + 2MP"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone007",
+    "name": "Xiaomi Redmi Note 14",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "price_inr": 16999,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 7025",
+      "display": "6.67-inch AMOLED FHD+ 120Hz",
+      "battery": "5110mAh, 45W charging",
+      "camera": "108MP + 8MP + 2MP"
+    },
+    "rating": 4.3,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone008",
+    "name": "Xiaomi Redmi Note 14 Pro 5G",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "price_inr": 22140,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 7200 Ultra",
+      "display": "6.67-inch AMOLED FHD+ 120Hz",
+      "battery": "5110mAh, 45W charging",
+      "camera": "200MP + 8MP + 2MP"
+    },
+    "rating": 4.4,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone009",
+    "name": "Xiaomi Redmi 13 5G",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "price_inr": 11850,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 4 Gen 2",
+      "display": "6.79-inch FHD+ 90Hz",
+      "battery": "5030mAh, 33W charging",
+      "camera": "108MP + 2MP"
+    },
+    "rating": 4.0,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone010",
+    "name": "Xiaomi Redmi A4 5G",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "price_inr": 8498,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 4s Gen 2",
+      "display": "6.88-inch HD+ 120Hz",
+      "battery": "5160mAh, 18W charging",
+      "camera": "50MP"
+    },
+    "rating": 3.8,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone011",
+    "name": "Xiaomi 14 Civi",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "price_inr": 30998,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 8s Gen 3",
+      "display": "6.55-inch AMOLED FHD+ 120Hz",
+      "battery": "4700mAh, 67W charging",
+      "camera": "50MP + 50MP + 12MP"
+    },
+    "rating": 4.5,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone012",
+    "name": "Realme GT Neo 5",
+    "category": "smartphone",
+    "brand": "Realme",
+    "price_inr": 28999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 8+ Gen 1",
+      "display": "6.74-inch AMOLED FHD+ 144Hz",
+      "battery": "4600mAh, 150W charging",
+      "camera": "50MP + 8MP + 2MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone013",
+    "name": "Realme Narzo 60 5G",
+    "category": "smartphone",
+    "brand": "Realme",
+    "price_inr": 17999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 6020",
+      "display": "6.43-inch Super AMOLED FHD+ 90Hz",
+      "battery": "5000mAh, 33W charging",
+      "camera": "64MP + 2MP"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone014",
+    "name": "Realme C53",
+    "category": "smartphone",
+    "brand": "Realme",
+    "price_inr": 9999,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "Unisoc Tiger T612",
+      "display": "6.74-inch IPS LCD HD+ 90Hz",
+      "battery": "5000mAh, 33W charging",
+      "camera": "50MP + 0.08MP"
+    },
+    "rating": 3.9,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone015",
+    "name": "Realme 10 5G",
+    "category": "smartphone",
+    "brand": "Realme",
+    "price_inr": 15999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 700",
+      "display": "6.6-inch IPS LCD FHD+ 90Hz",
+      "battery": "5000mAh, 33W charging",
+      "camera": "50MP + 2MP"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone016",
+    "name": "Apple iPhone 15",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 73600,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "A16 Bionic",
+      "display": "6.1-inch Super Retina XDR OLED",
+      "battery": "3349mAh, 20W charging",
+      "camera": "48MP + 12MP"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone017",
+    "name": "Apple iPhone 15 Pro",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 123800,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "A17 Pro",
+      "display": "6.1-inch Super Retina XDR OLED 120Hz",
+      "battery": "3274mAh, 20W charging",
+      "camera": "48MP + 12MP + 12MP"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone018",
+    "name": "Apple iPhone 15 Pro Max",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 153800,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "A17 Pro",
+      "display": "6.7-inch Super Retina XDR OLED 120Hz",
+      "battery": "4441mAh, 20W charging",
+      "camera": "48MP + 12MP + 12MP"
+    },
+    "rating": 4.8,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone019",
+    "name": "Apple iPhone 14",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 63600,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "A15 Bionic",
+      "display": "6.1-inch Super Retina XDR OLED",
+      "battery": "3279mAh, 20W charging",
+      "camera": "12MP + 12MP"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone020",
+    "name": "Apple iPhone 13",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 53600,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "128GB",
+      "processor": "A15 Bionic",
+      "display": "6.1-inch Super Retina XDR OLED",
+      "battery": "3240mAh, 20W charging",
+      "camera": "12MP + 12MP"
+    },
+    "rating": 4.4,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone021",
+    "name": "OnePlus 12",
+    "category": "smartphone",
+    "brand": "OnePlus",
+    "price_inr": 64999,
+    "specs": {
+      "RAM": "12GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 8 Gen 3",
+      "display": "6.82-inch LTPO AMOLED QHD+ 120Hz",
+      "battery": "5400mAh, 100W charging",
+      "camera": "50MP + 64MP + 48MP"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone022",
+    "name": "OnePlus 12R",
+    "category": "smartphone",
+    "brand": "OnePlus",
+    "price_inr": 42999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 8 Gen 2",
+      "display": "6.78-inch LTPO AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 100W charging",
+      "camera": "50MP + 8MP + 2MP"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone023",
+    "name": "OnePlus Nord CE 4",
+    "category": "smartphone",
+    "brand": "OnePlus",
+    "price_inr": 24999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 7 Gen 3",
+      "display": "6.7-inch AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 100W charging",
+      "camera": "50MP + 8MP"
+    },
+    "rating": 4.3,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone024",
+    "name": "OnePlus Nord CE 3 Lite 5G",
+    "category": "smartphone",
+    "brand": "OnePlus",
+    "price_inr": 18000,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 695",
+      "display": "6.72-inch IPS LCD FHD+ 120Hz",
+      "battery": "5000mAh, 67W charging",
+      "camera": "108MP + 2MP + 2MP"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone025",
+    "name": "Vivo T4 Ultra",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 37999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "MediaTek Dimensity 9300+",
+      "display": "6.67-inch AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 90W charging",
+      "camera": "50MP + 50MP + 8MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone026",
+    "name": "Vivo Y19 5G",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 10499,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "128GB",
+      "processor": "Unisoc T760",
+      "display": "6.68-inch IPS LCD HD+ 90Hz",
+      "battery": "5000mAh, 15W charging",
+      "camera": "50MP + 0.08MP"
+    },
+    "rating": 3.8,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone027",
+    "name": "Vivo T4 5G",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 21310,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 7 Gen 3",
+      "display": "6.67-inch AMOLED FHD+ 120Hz",
+      "battery": "5000mAh, 80W charging",
+      "camera": "50MP + 2MP"
+    },
+    "rating": 4.3,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone028",
+    "name": "Vivo V50",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 34999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 7 Gen 3",
+      "display": "6.67-inch AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 80W charging",
+      "camera": "50MP + 8MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone029",
+    "name": "Oppo F19 Pro",
+    "category": "smartphone",
+    "brand": "Oppo",
+    "price_inr": 21490,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Helio P95",
+      "display": "6.43-inch AMOLED FHD+ 60Hz",
+      "battery": "4310mAh, 30W charging",
+      "camera": "48MP + 8MP + 2MP + 2MP"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone030",
+    "name": "Oppo Reno6",
+    "category": "smartphone",
+    "brand": "Oppo",
+    "price_inr": 24990,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 900",
+      "display": "6.4-inch AMOLED FHD+ 90Hz",
+      "battery": "4300mAh, 65W charging",
+      "camera": "64MP + 8MP + 2MP"
+    },
+    "rating": 4.3,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone031",
+    "name": "Oppo A15",
+    "category": "smartphone",
+    "brand": "Oppo",
+    "price_inr": 9990,
+    "specs": {
+      "RAM": "3GB",
+      "storage": "32GB",
+      "processor": "MediaTek Helio P35",
+      "display": "6.52-inch IPS LCD HD+ 60Hz",
+      "battery": "4230mAh, 10W charging",
+      "camera": "13MP + 2MP + 2MP"
+    },
+    "rating": 3.7,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone032",
+    "name": "Oppo A12",
+    "category": "smartphone",
+    "brand": "Oppo",
+    "price_inr": 9490,
+    "specs": {
+      "RAM": "3GB",
+      "storage": "32GB",
+      "processor": "MediaTek Helio P35",
+      "display": "6.22-inch IPS LCD HD+ 60Hz",
+      "battery": "4230mAh, 10W charging",
+      "camera": "13MP + 2MP"
+    },
+    "rating": 3.6,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone033",
+    "name": "Motorola Edge 40",
+    "category": "smartphone",
+    "brand": "Motorola",
+    "price_inr": 32999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 8020",
+      "display": "6.55-inch pOLED FHD+ 144Hz",
+      "battery": "4400mAh, 68W charging",
+      "camera": "50MP + 13MP"
+    },
+    "rating": 4.3,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone034",
+    "name": "Motorola Edge 40 Ultra",
+    "category": "smartphone",
+    "brand": "Motorola",
+    "price_inr": 49999,
+    "specs": {
+      "RAM": "12GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 8 Gen 2",
+      "display": "6.67-inch pOLED FHD+ 165Hz",
+      "battery": "4600mAh, 125W charging",
+      "camera": "50MP + 50MP + 12MP"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone035",
+    "name": "Motorola G32",
+    "category": "smartphone",
+    "brand": "Motorola",
+    "price_inr": 12999,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "64GB",
+      "processor": "Snapdragon 680",
+      "display": "6.5-inch IPS LCD FHD+ 90Hz",
+      "battery": "5000mAh, 33W charging",
+      "camera": "50MP + 8MP + 2MP"
+    },
+    "rating": 4.0,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone036",
+    "name": "Motorola G62 5G",
+    "category": "smartphone",
+    "brand": "Motorola",
+    "price_inr": 17999,
+    "specs": {
+      "RAM": "6GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 695",
+      "display": "6.5-inch IPS LCD FHD+ 120Hz",
+      "battery": "5000mAh, 20W charging",
+      "camera": "50MP + 8MP + 2MP"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone037",
+    "name": "Motorola E13",
+    "category": "smartphone",
+    "brand": "Motorola",
+    "price_inr": 6999,
+    "specs": {
+      "RAM": "2GB",
+      "storage": "64GB",
+      "processor": "Unisoc T606",
+      "display": "6.5-inch IPS LCD HD+ 90Hz",
+      "battery": "5000mAh, 10W charging",
+      "camera": "13MP"
+    },
+    "rating": 3.5,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone038",
+    "name": "Nothing Phone 2",
+    "category": "smartphone",
+    "brand": "Nothing",
+    "price_inr": 29794,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 8+ Gen 1",
+      "display": "6.7-inch LTPO OLED FHD+ 120Hz",
+      "battery": "4700mAh, 45W charging",
+      "camera": "50MP + 50MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone039",
+    "name": "Honor 200",
+    "category": "smartphone",
+    "brand": "Honor",
+    "price_inr": 22998,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 7 Gen 3",
+      "display": "6.7-inch AMOLED FHD+ 120Hz",
+      "battery": "5200mAh, 100W charging",
+      "camera": "50MP + 50MP + 12MP"
+    },
+    "rating": 4.3,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone040",
+    "name": "Honor 200 Pro",
+    "category": "smartphone",
+    "brand": "Honor",
+    "price_inr": 35998,
+    "specs": {
+      "RAM": "12GB",
+      "storage": "512GB",
+      "processor": "Snapdragon 8s Gen 3",
+      "display": "6.78-inch AMOLED FHD+ 120Hz",
+      "battery": "5200mAh, 100W charging",
+      "camera": "50MP + 50MP + 12MP"
+    },
+    "rating": 4.5,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone041",
+    "name": "Honor 200 Lite",
+    "category": "smartphone",
+    "brand": "Honor",
+    "price_inr": 16499,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "MediaTek Dimensity 6080",
+      "display": "6.7-inch AMOLED FHD+ 90Hz",
+      "battery": "4500mAh, 35W charging",
+      "camera": "108MP + 5MP + 2MP"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone042",
+    "name": "Samsung Galaxy F56 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 27999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Exynos 1380",
+      "display": "6.7-inch Super AMOLED FHD+ 120Hz",
+      "battery": "6000mAh, 25W charging",
+      "camera": "108MP + 8MP + 2MP"
+    },
+    "rating": 4.3,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone043",
+    "name": "Samsung Galaxy M16 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 10999,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 6300",
+      "display": "6.7-inch PLS LCD FHD+ 90Hz",
+      "battery": "5000mAh, 25W charging",
+      "camera": "50MP + 2MP"
+    },
+    "rating": 3.9,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone044",
+    "name": "Samsung Galaxy A06 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 9664,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "64GB",
+      "processor": "MediaTek Dimensity 6100+",
+      "display": "6.7-inch PLS LCD HD+ 90Hz",
+      "battery": "5000mAh, 25W charging",
+      "camera": "50MP + 2MP"
+    },
+    "rating": 3.7,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone045",
+    "name": "Xiaomi Redmi Note 13 Pro Plus",
+    "category": "smartphone",
+    "brand": "Xiaomi",
+    "price_inr": 19999,
+    "specs": {
+      "RAM": "12GB",
+      "storage": "256GB",
+      "processor": "MediaTek Dimensity 7200 Ultra",
+      "display": "6.67-inch AMOLED FHD+ 120Hz",
+      "battery": "5000mAh, 120W charging",
+      "camera": "200MP + 8MP + 2MP"
+    },
+    "rating": 4.4,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone046",
+    "name": "Vivo Y300i",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 20388,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 4 Gen 2",
+      "display": "6.78-inch IPS LCD FHD+ 120Hz",
+      "battery": "5000mAh, 44W charging",
+      "camera": "50MP + 0.08MP"
+    },
+    "rating": 4.0,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone047",
+    "name": "Vivo Y39 5G",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 16999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 4 Gen 2",
+      "display": "6.67-inch IPS LCD FHD+ 120Hz",
+      "battery": "5000mAh, 44W charging",
+      "camera": "50MP + 0.08MP"
+    },
+    "rating": 4.0,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone048",
+    "name": "Vivo Y19e",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 7999,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "64GB",
+      "processor": "Unisoc T612",
+      "display": "6.56-inch IPS LCD HD+ 90Hz",
+      "battery": "5000mAh, 15W charging",
+      "camera": "13MP + 0.08MP"
+    },
+    "rating": 3.6,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone049",
+    "name": "Vivo T4x 5G",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 13999,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "128GB",
+      "processor": "Snapdragon 6 Gen 1",
+      "display": "6.72-inch IPS LCD FHD+ 120Hz",
+      "battery": "6000mAh, 44W charging",
+      "camera": "50MP + 2MP"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone050",
+    "name": "Vivo Y29 5G",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 13794,
+    "specs": {
+      "RAM": "4GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 6300",
+      "display": "6.68-inch IPS LCD HD+ 90Hz",
+      "battery": "5000mAh, 44W charging",
+      "camera": "50MP + 0.08MP"
+    },
+    "rating": 3.9,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone051",
+    "name": "Motorola E22i",
+    "category": "smartphone",
+    "brand": "Motorola",
+    "price_inr": 8499,
+    "specs": {
+      "RAM": "3GB",
+      "storage": "32GB",
+      "processor": "MediaTek Helio G37",
+      "display": "6.5-inch IPS LCD HD+ 90Hz",
+      "battery": "4020mAh, 10W charging",
+      "camera": "16MP + 2MP"
+    },
+    "rating": 3.7,
+    "tier": "low-end"
+  },
+  {
+    "id": "phone052",
+    "name": "Realme GT Neo 6",
+    "category": "smartphone",
+    "brand": "Realme",
+    "price_inr": 34999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "Snapdragon 8s Gen 3",
+      "display": "6.78-inch AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 120W charging",
+      "camera": "50MP + 8MP + 2MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone053",
+    "name": "Samsung Galaxy S24 FE 5G",
+    "category": "smartphone",
+    "brand": "Samsung",
+    "price_inr": 34840,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "Exynos 2400e",
+      "display": "6.7-inch Dynamic AMOLED 2X FHD+ 120Hz",
+      "battery": "4700mAh, 25W charging",
+      "camera": "50MP + 12MP + 8MP"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone054",
+    "name": "Vivo T3 Ultra",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 27650,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 9200+",
+      "display": "6.78-inch AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 80W charging",
+      "camera": "50MP + 8MP"
+    },
+    "rating": 4.3,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone055",
+    "name": "Vivo V40 Pro",
+    "category": "smartphone",
+    "brand": "Vivo",
+    "price_inr": 37990,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "MediaTek Dimensity 9200+",
+      "display": "6.78-inch AMOLED FHD+ 120Hz",
+      "battery": "5500mAh, 80W charging",
+      "camera": "50MP + 50MP + 50MP"
+    },
+    "rating": 4.5,
+    "tier": "high-end"
+  },
+  {
+    "id": "phone056",
+    "name": "OnePlus Nord CE 2 5G",
+    "category": "smartphone",
+    "brand": "OnePlus",
+    "price_inr": 23990,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "MediaTek Dimensity 900",
+      "display": "6.43-inch AMOLED FHD+ 90Hz",
+      "battery": "4500mAh, 65W charging",
+      "camera": "64MP + 8MP + 2MP"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "phone057",
+    "name": "Apple iPhone 16",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 79900,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "A18",
+      "display": "6.1-inch Super Retina XDR OLED",
+      "battery": "3561mAh, 25W charging",
+      "camera": "48MP + 12MP"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone058",
+    "name": "Apple iPhone 16 Plus",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 89900,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "A18",
+      "display": "6.7-inch Super Retina XDR OLED",
+      "battery": "4674mAh, 25W charging",
+      "camera": "48MP + 12MP"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone059",
+    "name": "Apple iPhone 16 Pro",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 119900,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "128GB",
+      "processor": "A18 Pro",
+      "display": "6.3-inch Super Retina XDR OLED 120Hz",
+      "battery": "3582mAh, 25W charging",
+      "camera": "48MP + 48MP + 12MP"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "phone060",
+    "name": "Apple iPhone 16 Pro Max",
+    "category": "smartphone",
+    "brand": "Apple",
+    "price_inr": 144900,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB",
+      "processor": "A18 Pro",
+      "display": "6.9-inch Super Retina XDR OLED 120Hz",
+      "battery": "4685mAh, 25W charging",
+      "camera": "48MP + 48MP + 12MP"
+    },
+    "rating": 4.8,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop001",
+    "name": "Dell 14 Plus",
+    "category": "laptop",
+    "brand": "Dell",
+    "price_inr": 96899,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core Ultra 7 256V",
+      "display": "14-inch FHD+ (1920x1200) touchscreen",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.3,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop002",
+    "name": "Dell 16 Plus",
+    "category": "laptop",
+    "brand": "Dell",
+    "price_inr": 108499,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core Ultra 7 256V",
+      "display": "16-inch FHD+ (1920x1200)",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.4,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop003",
+    "name": "Dell 14 Plus 2-in-1",
+    "category": "laptop",
+    "brand": "Dell",
+    "price_inr": 115799,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core Ultra 7 256V",
+      "display": "14-inch 2.5K (2560x1600) anti-glare",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop004",
+    "name": "Dell XPS 13",
+    "category": "laptop",
+    "brand": "Dell",
+    "price_inr": 125999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "13.4-inch 3K (2880x1800) OLED",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop005",
+    "name": "Dell XPS 15",
+    "category": "laptop",
+    "brand": "Dell",
+    "price_inr": 149999,
+    "specs": {
+      "RAM": "32GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core i9-13900H",
+      "display": "15.6-inch 4K (3840x2400) OLED",
+      "GPU": "NVIDIA GeForce RTX 4070 8GB"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop006",
+    "name": "Dell Inspiron 15 3000",
+    "category": "laptop",
+    "brand": "Dell",
+    "price_inr": 32999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "processor": "Intel Core i3-1215U",
+      "display": "15.6-inch FHD (1920x1080) TN",
+      "GPU": "Intel UHD Graphics"
+    },
+    "rating": 3.8,
+    "tier": "low-end"
+  },
+  {
+    "id": "laptop007",
+    "name": "HP Spectre x360 14",
+    "category": "laptop",
+    "brand": "HP",
+    "price_inr": 164999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "14-inch 2.8K (2880x1800) OLED touchscreen",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop008",
+    "name": "HP Spectre x360 16",
+    "category": "laptop",
+    "brand": "HP",
+    "price_inr": 179999,
+    "specs": {
+      "RAM": "32GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "16-inch 4K (3840x2400) OLED touchscreen",
+      "GPU": "NVIDIA RTX 4050 6GB"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop009",
+    "name": "HP Pavilion 15",
+    "category": "laptop",
+    "brand": "HP",
+    "price_inr": 49999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-13420H",
+      "display": "15.6-inch FHD (1920x1080) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop010",
+    "name": "HP Pavilion 14",
+    "category": "laptop",
+    "brand": "HP",
+    "price_inr": 44999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "AMD Ryzen 5 7530U",
+      "display": "14-inch FHD (1920x1080) IPS",
+      "GPU": "AMD Radeon Graphics"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop011",
+    "name": "HP Envy 13",
+    "category": "laptop",
+    "brand": "HP",
+    "price_inr": 74999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i7-1355U",
+      "display": "13.3-inch QHD (2560x1600) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop012",
+    "name": "HP Omen 15",
+    "category": "laptop",
+    "brand": "HP",
+    "price_inr": 89999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core i7-13700H",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 4060 8GB"
+    },
+    "rating": 4.5,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop013",
+    "name": "Lenovo Yoga Pro 7",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 135999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "14.5-inch 3K (3072x1920) OLED",
+      "GPU": "NVIDIA GeForce RTX 4050 6GB"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop014",
+    "name": "Lenovo Yoga Slim 7i",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 132141,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "14-inch 2.8K (2880x1800) OLED",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop015",
+    "name": "Lenovo Yoga 7i 2-in-1",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 119990,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "14-inch 2.8K (2880x1800) OLED touchscreen",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.4,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop016",
+    "name": "Lenovo IdeaPad Pro 5i",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 109990,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "16-inch 2.5K (2560x1600) IPS",
+      "GPU": "NVIDIA GeForce RTX 4050 6GB"
+    },
+    "rating": 4.3,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop017",
+    "name": "Lenovo Legion 9i",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 449990,
+    "specs": {
+      "RAM": "64GB",
+      "storage": "2TB SSD",
+      "processor": "Intel Core i9-14900HX",
+      "display": "16-inch 3.2K (3200x2000) Mini-LED 165Hz",
+      "GPU": "NVIDIA GeForce RTX 4090 16GB"
+    },
+    "rating": 4.9,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop018",
+    "name": "Lenovo ThinkPad E14",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 54999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-1335U",
+      "display": "14-inch FHD (1920x1080) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop019",
+    "name": "Lenovo IdeaPad Slim 3",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price_inr": 34999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "processor": "AMD Ryzen 5 7520U",
+      "display": "15.6-inch FHD (1920x1080) IPS",
+      "GPU": "AMD Radeon Graphics"
+    },
+    "rating": 4.0,
+    "tier": "low-end"
+  },
+  {
+    "id": "laptop020",
+    "name": "Asus Zenbook 14 OLED",
+    "category": "laptop",
+    "brand": "Asus",
+    "price_inr": 99990,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core Ultra 7 155H",
+      "display": "14-inch 2.8K (2880x1800) OLED",
+      "GPU": "Intel Arc Graphics"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop021",
+    "name": "Asus Zenbook Pro 15 OLED",
+    "category": "laptop",
+    "brand": "Asus",
+    "price_inr": 149990,
+    "specs": {
+      "RAM": "32GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core i9-13900H",
+      "display": "15.6-inch 4K (3840x2400) OLED",
+      "GPU": "NVIDIA GeForce RTX 4070 8GB"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop022",
+    "name": "Asus VivoBook 15",
+    "category": "laptop",
+    "brand": "Asus",
+    "price_inr": 42999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-1335U",
+      "display": "15.6-inch FHD (1920x1080) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop023",
+    "name": "Asus ROG Strix G15",
+    "category": "laptop",
+    "brand": "Asus",
+    "price_inr": 119990,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "AMD Ryzen 7 7735HS",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 4060 8GB"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop024",
+    "name": "Asus TUF Gaming A15",
+    "category": "laptop",
+    "brand": "Asus",
+    "price_inr": 84999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "AMD Ryzen 7 7735HS",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 4050 6GB"
+    },
+    "rating": 4.4,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop025",
+    "name": "Asus VivoBook Pro 15",
+    "category": "laptop",
+    "brand": "Asus",
+    "price_inr": 67999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i7-13700H",
+      "display": "15.6-inch FHD (1920x1080) IPS",
+      "GPU": "NVIDIA GeForce RTX 3050 4GB"
+    },
+    "rating": 4.3,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop026",
+    "name": "Acer Aspire 7",
+    "category": "laptop",
+    "brand": "Acer",
+    "price_inr": 61990,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-13420H",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 2050 4GB"
+    },
+    "rating": 4.2,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop027",
+    "name": "Acer Swift 3",
+    "category": "laptop",
+    "brand": "Acer",
+    "price_inr": 52999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-1335U",
+      "display": "14-inch FHD (1920x1080) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop028",
+    "name": "Acer Nitro 5",
+    "category": "laptop",
+    "brand": "Acer",
+    "price_inr": 74999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-13420H",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 4050 6GB"
+    },
+    "rating": 4.3,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop029",
+    "name": "Acer Predator Helios 300",
+    "category": "laptop",
+    "brand": "Acer",
+    "price_inr": 129999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core i7-13700H",
+      "display": "15.6-inch QHD (2560x1440) 165Hz",
+      "GPU": "NVIDIA GeForce RTX 4070 8GB"
+    },
+    "rating": 4.5,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop030",
+    "name": "Acer Aspire 5",
+    "category": "laptop",
+    "brand": "Acer",
+    "price_inr": 38999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "AMD Ryzen 5 7520U",
+      "display": "15.6-inch FHD (1920x1080) IPS",
+      "GPU": "AMD Radeon Graphics"
+    },
+    "rating": 4.0,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop031",
+    "name": "Apple MacBook Air M2",
+    "category": "laptop",
+    "brand": "Apple",
+    "price_inr": 99999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "processor": "Apple M2",
+      "display": "13.6-inch Liquid Retina (2560x1664)",
+      "GPU": "8-core GPU"
+    },
+    "rating": 4.6,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop032",
+    "name": "Apple MacBook Air M3",
+    "category": "laptop",
+    "brand": "Apple",
+    "price_inr": 114900,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "processor": "Apple M3",
+      "display": "13.6-inch Liquid Retina (2560x1664)",
+      "GPU": "8-core GPU"
+    },
+    "rating": 4.7,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop033",
+    "name": "Apple MacBook Pro M3",
+    "category": "laptop",
+    "brand": "Apple",
+    "price_inr": 169900,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Apple M3",
+      "display": "14.2-inch Liquid Retina XDR (3024x1964)",
+      "GPU": "10-core GPU"
+    },
+    "rating": 4.8,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop034",
+    "name": "Apple MacBook Pro M3 Pro",
+    "category": "laptop",
+    "brand": "Apple",
+    "price_inr": 199900,
+    "specs": {
+      "RAM": "18GB",
+      "storage": "512GB SSD",
+      "processor": "Apple M3 Pro",
+      "display": "14.2-inch Liquid Retina XDR (3024x1964)",
+      "GPU": "14-core GPU"
+    },
+    "rating": 4.9,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop035",
+    "name": "MSI Modern 14",
+    "category": "laptop",
+    "brand": "MSI",
+    "price_inr": 45999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-1335U",
+      "display": "14-inch FHD (1920x1080) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop036",
+    "name": "MSI GF63 Thin",
+    "category": "laptop",
+    "brand": "MSI",
+    "price_inr": 69999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-12450H",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 4050 6GB"
+    },
+    "rating": 4.3,
+    "tier": "high-end"
+  },
+  {
+    "id": "laptop037",
+    "name": "MSI Katana 15",
+    "category": "laptop",
+    "brand": "MSI",
+    "price_inr": 94999,
+    "specs": {
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core i7-13620H",
+      "display": "15.6-inch FHD (1920x1080) 144Hz",
+      "GPU": "NVIDIA GeForce RTX 4060 8GB"
+    },
+    "rating": 4.4,
+    "tier": "flagship"
+  },
+  {
+    "id": "laptop038",
+    "name": "Realme Book Prime",
+    "category": "laptop",
+    "brand": "Realme",
+    "price_inr": 56999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-11300H",
+      "display": "14-inch 2K (2160x1440) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.2,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop039",
+    "name": "Honor MagicBook X14",
+    "category": "laptop",
+    "brand": "Honor",
+    "price_inr": 39999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "processor": "Intel Core i3-1215U",
+      "display": "14-inch FHD (1920x1080) IPS",
+      "GPU": "Intel UHD Graphics"
+    },
+    "rating": 3.9,
+    "tier": "mid-range"
+  },
+  {
+    "id": "laptop040",
+    "name": "Honor MagicBook X15",
+    "category": "laptop",
+    "brand": "Honor",
+    "price_inr": 47999,
+    "specs": {
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5-1235U",
+      "display": "15.6-inch FHD (1920x1080) IPS",
+      "GPU": "Intel Iris Xe Graphics"
+    },
+    "rating": 4.1,
+    "tier": "mid-range"
+  }
+]
